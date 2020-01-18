@@ -210,7 +210,7 @@ class singlylist{
             System.out.print(n.data +" ");
             n= n.next;
         }
-        System.out.println();
+        System.out.println( );
     }
     void deletebykey(int d){
         boolean flag = false;
